@@ -1,2 +1,3 @@
 # website
-A dynamic website for gamers where one can access and check-in all the on-going competitions like 
+A dynamic website for gamers where one can access and check-in all the on-going competitions like PUBG,FIFA etc.
+
